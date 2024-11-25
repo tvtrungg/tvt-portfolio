@@ -7,6 +7,15 @@
   margin-right: 5%;
 }
 
+@media(max-width: 500px)  {
+  
+.basic-contact {
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+}
+
 .contact-heading-div {
   display: flex;
 }

@@ -1,4 +1,4 @@
-/* Change this file to get your personal Porfolio */
+/* Change this file to get your personal Portfolio */
 
 // Website related settings
 const settings = {
@@ -26,7 +26,7 @@ const greeting = {
     "Full-Stack Developer skilled in React, TypeScript, and Node.js, with experience in Shopify theme development and e-commerce solutions. Currently pursuing a Master's in Computer Networks at Sorbonne Université, focusing on network programming and security.",
   resumeLink:
     "https://drive.google.com/file/d/1qo_3xWx7G2bdKByhaqpgW0-e8WnQDVLW/view?usp=sharing",
-  portfolio_repository: "https://github.com/tvtrungg/portfolio",
+  portfolio_repository: "https://github.com/tvtrungg/tvt-portfolio",
   githubProfile: "https://github.com/tvtrungg",
 };
 
