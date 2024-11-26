@@ -16,6 +16,19 @@
 
 }
 
+@media(max-width: 400px)  {
+  
+  .basic-contact {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+  .contact-main .react-reveal{
+    margin: 0 12%;
+  }
+  
+  }
+
 .contact-heading-div {
   display: flex;
 }
