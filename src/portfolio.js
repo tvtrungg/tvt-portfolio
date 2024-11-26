@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Vinh Trung THIEU",
-  logo_name: "Trung Thieu",
+  logo_name: "Trung Thieu ",
   nickname: "john_thieu",
   subTitle:
     "Full-Stack Developer skilled in React, TypeScript, and Node.js, with experience in Shopify theme development and e-commerce solutions. Currently pursuing a Master's in Computer Networks at Sorbonne Université, focusing on network programming and security.",

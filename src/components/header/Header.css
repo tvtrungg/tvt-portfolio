@@ -61,10 +61,11 @@
 
 .header .menu-icon {
   cursor: pointer;
-  display: inline-block;
+  display: block;
   padding: 28px 20px;
   position: relative;
   user-select: none;
+  float: right;
 }
 
 .header .menu-icon .navicon {
@@ -88,11 +89,11 @@
 }
 
 .header .menu-icon .navicon:before {
-  top: 5px;
+  top: 6px;
 }
 
 .header .menu-icon .navicon:after {
-  top: -5px;
+  top: -6px;
 }
 
 /* menu btn */
