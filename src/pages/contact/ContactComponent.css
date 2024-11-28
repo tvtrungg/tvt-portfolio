@@ -7,27 +7,23 @@
   margin-right: 5%;
 }
 
-@media(max-width: 500px)  {
-  
-.basic-contact {
-  margin-left: 12%;
-  margin-right: 12%;
+@media (max-width: 500px) {
+  .basic-contact {
+    margin-left: 12%;
+    margin-right: 12%;
+  }
 }
 
-}
-
-@media(max-width: 400px)  {
-  
+@media (max-width: 400px) {
   .basic-contact {
     margin-left: 20%;
     margin-right: 20%;
   }
 
-  .contact-main .react-reveal{
+  .contact-main .react-reveal {
     margin: 0 12%;
   }
-  
-  }
+}
 
 .contact-heading-div {
   display: flex;
