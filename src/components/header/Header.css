@@ -45,6 +45,28 @@
   /* color: #55198b; */
 }
 
+@media (max-width: 400px) {
+  .header .logo {
+    font-size: 1.4em;
+  }
+}
+
+@media (max-width: 350px) {
+  .header .logo {
+    font-size: 1.3em;
+  }
+}
+
+@media (max-width: 320px) {
+  .header .logo {
+    font-size: 1.2em;
+  }
+
+  .header .menu-icon{
+    padding: 24px 20px;
+  }
+}
+
 /* menu */
 
 .menu {

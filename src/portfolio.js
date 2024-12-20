@@ -186,13 +186,6 @@ const skills = {
           },
         },
         {
-          skillName: "Liquid - Shopify",
-          fontAwesomeClassname: "logos:shopify",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
           skillName: "NodeJS",
           fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
           style: {
